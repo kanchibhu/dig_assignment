@@ -8,7 +8,7 @@ This example is a simple 3 column-layout webpage which is built using plain css.
 
 #Setup
 
-Clone/Download the zipped folder of the repository on your local machine. Double click the index.html to run the example.
+Clone/Download the dig_assignemnt zipped folder of the repository on your local machine. Double click the index.html to run the example.
 
 
 
