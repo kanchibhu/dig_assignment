@@ -2,6 +2,9 @@
 
 Repository for DIG UX Internship application assignment
 
+#About
+
+This example is a simple 3 column-layout webpage which is built using plain css. It has fluid width and a sticky footer. 
 
 #Setup
 
